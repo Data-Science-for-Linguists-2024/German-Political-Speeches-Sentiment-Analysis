@@ -22,7 +22,7 @@ I started by fixing up my notebook and adding better notes throughout to improve
 I decided to maintain the same license as the original dataset I found because I am required to by the original license. It is a Creative Commons Attribution-ShareAlike 4.0 International License. 
 
 I decided to use Ashley's suggestion and add more values for the positions of the speakers. 
-Complete your the data acquisition process. I started looking for sentiment analysis tools for German. I found SpaCy which has Sentiws for German. I've installed it and am looking through it to get a better understanding of how to use it for my analysis.
+Complete your the data acquisition process. I started looking for sentiment analysis tools for German. I found SpaCy which has Sentiws for German. I've installed it and am looking through it to get a better understanding of how to use it for my analysis. This is definitely less than I would like to have done, but unfortunately, it is that time in the semester.
 
 #### Sharing Scheme
 I'll be sharing all of my data through my repository because the license the data is under allows any sharing, reproduction or derivation as long as there is proper atribution. This will make it easier for anyone else who might have an interest in using the data to access the data.
