@@ -26,3 +26,15 @@ Complete your the data acquisition process. I started looking for sentiment anal
 
 #### Sharing Scheme
 I'll be sharing all of my data through my repository because the license the data is under allows any sharing, reproduction or derivation as long as there is proper atribution. This will make it easier for anyone else who might have an interest in using the data to access the data.
+
+
+
+# Third Progress Report
+Link to jnb: https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/GPS_Sentiment_Analysis.ipynb
+
+Link to data-samples: https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/tree/main/data-samples
+
+Link to README.md: https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/README.md
+
+I spent a good bit of time wrangling with sentiWS because the site I downloaded from was based on an earlier version of spacy, but after I found the updated version, I got to setting up the pipeline. I found the sentiment scores for each speech based on the average score of the tokens. I split the scores into strongly negative, negative, neutral, positive, and strongly positive. I then made a few plots to get a surface level look at the variation of sentiment accross time, political party, office etc. Then, I looked at the statistical significance of the difference between sentiment scores for the speeches from various political parties and offices. Finally, I started the process for topic clustering.  
+My data in the notebook is generally in its final form, and the source data files themselves remain unchanged.
