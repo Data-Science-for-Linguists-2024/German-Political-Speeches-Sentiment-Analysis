@@ -13,5 +13,13 @@ This corpus consists of 6,685 speeches by 71 speakers, spanning a time from 1984
 
 #### Directory
 
-- **[final_report.md]()**
-- 
+- **[final_report.md](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/final_report.md)** is my final report write-up.
+- [GPS_Sentiment_Analysis.ipynb](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/GPS_Sentiment_Analysis.ipynb) is my code that includes my data cleaning, processing, and analysis.
+- [data-samples/](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/tree/main/data-samples) is where the original data files are found.
+- [image_files/](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/tree/main/image_files) contains graphs of my data and findings.
+- [LICENSE.md](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/LICENSE.md) contains licensing information.
+- [project_plan.md](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/project_plan.md) was my initial project plan.
+- [progress_reprt.md](https://github.com/Data-Science-for-Linguists-2024/German-Political-Speeches-Sentiment-Analysis/blob/main/progress_report.md) contains progress logs throughout this semester.
+
+#### Visitors Log
+My Guestbook can be [found here](https://github.com/Data-Science-for-Linguists-2024/Class-Lounge/blob/main/guestbooks/riley.md).
