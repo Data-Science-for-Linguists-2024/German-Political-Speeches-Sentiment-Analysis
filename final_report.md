@@ -85,6 +85,6 @@ The FDP doesn't have a very wide range of time, and it stays relatively consiste
 The green party has an extremely small time frame compared to the other parties. This party was only founded in 1993, making it a relatively new party. It starts with a pretty positive point, then decreases and remains in the negatives.
 
 
-## Reflection
+## Reflection/Process
 Overall, I definitely learned from this project. I started this project with a lot of ideas on what I could do with this data, but due to lack of time and general mediocre time management, I didn't get to some different types of analyses I had wanted to do. This was more so a good start to other types of sentiment/topic analysis. Because of this project, I have a better idea of what kind of efforts it takes and what kind of projects I would like to do in the future.
-I also learned about sentiment analyzers. I had difficulties finding a good quality German sentiment analyzer, and I ended up using SentiWS after struggling to set up another larger tool. 
+I definitely had a hard time focusing how I wanted to do this project. I think, because of this, I was a bit scattered in how I did the project. The data cleaning went well, and adding values, though tedious, was not bad. As I got into analysis, the sentiment analyzer was giving me some issues. I had difficulty finding a good quality German sentiment analyzer, and I ended up using SentiWS after struggling to set up another larger tool. Because of the time constraint, I continued with the sentiment analysis as it was going, but if I had had more time I would have gone in a different direction with this project, focusing more on topics in political speech.
